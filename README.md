@@ -15,5 +15,10 @@
 
 <img src="https://i.imgur.com/g3iyaWr.png">
 
-<h2>Outros LINKS<h2/>
+<h2>Outros LINKS</h2>
 <p>Desenvolvimento do Backend E FrontEnd, Em privado por segurança do Projeto, Enviem SUBMIT para ver</p>
+
+<ul>
+ <li><a href="https://github.com/FelipeMartinsDuarte/cortinasabertasapi.git">Cortinas Abertas Backend, NODEJS</a></li>
+  <li><a href="https://github.com/FelipeMartinsDuarte/cortinasabertasvue.git">Cortinas Abertas FrontEND, VUEJS</a></li>
+</ul>
