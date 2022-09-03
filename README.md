@@ -14,4 +14,3 @@
 </ol>
 
 <img src="https://i.imgur.com/g3iyaWr.png">
-<img src="https://i.imgur.com/g3iyaWr.png">
